@@ -16,3 +16,8 @@ ___
  * Tienes alguna sugerencia para agregar un tema nuevo ó para alguno existente.
 
 Puedes escribir directamente un email a [miguel.eva.alv@rcastellanos.cdmx.gob.mx](mailto:miguel.eva.alv@rcastellanos.cdmx.gob.mx) ó levante un issue en https://github.com/URC-LCDN/geo_analitica_con_python/issues.
+___
+
+## Autores
+
+ * **Miguel Evangelista** - [@mevangelista-alvarado](https://github.com/mevangelista-alvarado)
