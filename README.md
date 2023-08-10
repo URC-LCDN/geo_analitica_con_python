@@ -9,6 +9,10 @@ Google Colabs para reforzar el aprendizaje en los cursos de Geometría Analític
 
 ### Geometría Analítica 
 
+**[Subconjuntos del Plano](https://github.com/URC-LCDN/geo_analitica_con_python/blob/main/SubconjuntosDelPlano.ipynb)**
+
+**[Gif para Curvas Polares](https://github.com/URC-LCDN/geo_analitica_con_python/blob/main/GifParaCurvasPolares.ipynb)**
+
 ___
 
 ## Errores & Sugerencias
